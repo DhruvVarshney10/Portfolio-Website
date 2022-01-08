@@ -270,6 +270,7 @@ header {
 }
 
 .section__title--services {
+    word-break: break-all;
     color: var(--clr-accent);
     position: relative;
 }
